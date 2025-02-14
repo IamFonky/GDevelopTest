@@ -90,7 +90,16 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
-    "resources": [],
+    "resources": [
+      {
+        "file": "CW_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CW_1.png",
+        "smoothed": true,
+        "userAdded": false
+      }
+    ],
     "resourceFolders": []
   },
   "objects": [],
