@@ -90,7 +90,24 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
-    "resources": [],
+    "resources": [
+      {
+        "file": "../../QQ截图20240805164035.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\QQ截图20240805164035.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "avatar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "avatar.png",
+        "smoothed": true,
+        "userAdded": false
+      }
+    ],
     "resourceFolders": []
   },
   "objects": [],
