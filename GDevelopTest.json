@@ -90,7 +90,16 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
-    "resources": [],
+    "resources": [
+      {
+        "file": "20240409_123029.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "20240409_123029.jpg",
+        "smoothed": true,
+        "userAdded": false
+      }
+    ],
     "resourceFolders": []
   },
   "objects": [],
