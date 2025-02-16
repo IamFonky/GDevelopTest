@@ -31,7 +31,7 @@
       "height": 712,
       "keepRatio": true,
       "layer": "",
-      "name": "NewSprite",
+      "name": "confusedsun",
       "persistentUuid": "f264725c-6492-4f03-b0dd-9c3394f4c7cf",
       "width": 752,
       "x": 256,
@@ -46,7 +46,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "NewSprite",
+      "name": "confusedsun",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -108,7 +108,7 @@
     "folderName": "__ROOT",
     "children": [
       {
-        "objectName": "NewSprite"
+        "objectName": "confusedsun"
       }
     ]
   },
